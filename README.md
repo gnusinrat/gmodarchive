@@ -10,6 +10,3 @@ Archive of Garry's Mod's Old Versions
 3. Install SourceSDK, SourceSDK Base 2006 and 2007.
 4. Restart Steam
 5. The versions should appear in your Steam library.
-
-
-"woah that's what people played in 2005!"
